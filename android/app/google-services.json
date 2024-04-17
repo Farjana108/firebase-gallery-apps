@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "66183242971",
+    "project_id": "image-gallery-apps",
+    "storage_bucket": "image-gallery-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66183242971:android:6264ebc1031a9b9d4218fe",
+        "android_client_info": {
+          "package_name": "com.example.flutter_gallery_apps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9qNu9AVWpaEchCCTcvHQa20AAcPZq99U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
